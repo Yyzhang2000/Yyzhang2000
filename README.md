@@ -1,8 +1,6 @@
 <div align="center"> 
-  I'm a AI apprentice.
-
-  Passion about Machine Learning, Optimization, Neural Network and Intelligent Systems. 
-  
+  I'm a AI apprentice. </br>
+  Passion about Machine Learning, Optimization, Neural Network and Intelligent Systems. </br>
   My research interested are **Generative Models**, **NLP**, **MultiModal Learning**, **Reinforcement Learning** and **Meta-Learning**.
 
 ✨ **STAY LEARNING** ✨
