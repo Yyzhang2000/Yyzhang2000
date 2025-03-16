@@ -1,9 +1,9 @@
 <div align="center"> 
   I'm a AI apprentice. </br>
   Passion about Machine Learning, Optimization, Neural Network and Intelligent Systems. </br>
-  My research interested are **Generative Models**, **NLP**, **MultiModal Learning**, **Reinforcement Learning** and **Meta-Learning**.
+  My research interested are <strong>Generative Models</strong>, <strong>NLP</strong>, <strong>MultiModal Learning</strong>, <strong>Reinforcement Learning</strong> and <strong>Meta-Learning</strong>.
 
-✨ **STAY LEARNING** ✨
+✨ <strong>STAY LEARNING</strong> ✨
 
 ![YuyangZhang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yyzhang2000&show_icons=true&theme=merko)
 
