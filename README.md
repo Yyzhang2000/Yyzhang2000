@@ -1,7 +1,7 @@
 <div align="center"> 
   I'm a AI apprentice. </br>
   Passion about Machine Learning, Optimization, Neural Network and Intelligent Systems. </br>
-  My research interested are <strong>Generative Models</strong>, <strong>NLP</strong>, <strong>MultiModal Learning</strong>, <strong>Reinforcement Learning</strong> and <strong>Meta-Learning</strong>.
+  My research interested are <strong>Generative Models</strong>, <strong>NLP</strong>, <strong>MultiModal Learning</strong>, <strong>Reinforcement Learning</strong> and <strong>Meta-Learning</strong>. </br>
 
 ✨ <strong>STAY LEARNING</strong> ✨
 
