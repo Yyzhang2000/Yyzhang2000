@@ -1,12 +1,12 @@
 ## Hi there, I'm Yuyang 👋
 
-<p align="center" style="text-align:center; font-size: 20px;">
-  🚀 I am passionate about exploring the world of Artificial Intelligence and sharing knowledge along the way. <br>
-  My interests include Natural Language Processing (NLP) 📝, Multimodal Learning 🖼️🔤, Generative Models 🎨, Optimization Algorithms 📈, Large Language Models (LLMs) 🤖, and AI Agents 🛠️. <br>
+<div align="center" style="text-align:center; font-size: 20px;">
+  🚀 I am passionate about exploring the world of <b>Artificial Intelligence</b> and sharing knowledge along the way. <br>
+  My interests include <mark>Natural Language Processing (NLP)</mark>, <mark>Multimodal Learning</mark> , <mark>Generative Models</mark>, <mark>Optimization Algorithms</mark> , <mark>Large Language Models (LLMs)</mark> , and <mark>AI Agents</mark>. <br>
   I maintain several websites: <br>
-  📚 <a href="https://yyzhang2000.github.io/AI-Daily-Paper/" target="_blank">AI Daily Paper</a> — sharing classic and cutting-edge AI research.<br>
-  ✍️ <a href="https://yyzhang2000.github.io/Blog/" target="_blank">Blog</a> — sharing various concepts, experiments, and projects.
-</p>
+  📚 <a href="https://yyzhang2000.github.io/AI-Daily-Paper/" target="_blank"><b>AI Daily Paper</b></a> — sharing classic and cutting-edge AI research. <br>
+  ✍️ <a href="https://yyzhang2000.github.io/Blog/" target="_blank"><b>Blog</b></a> — sharing various concepts, experiments, and projects.
+</div>
 
 <!--
 **Yyzhang2000/Yyzhang2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
