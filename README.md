@@ -1,8 +1,8 @@
 ## Hi there, I'm Yuyang 👋
 
-<p align="center" style="text-align:center;">
-  🚀 I am passionate about exploring the world of Artificial Intelligence and sharing knowledge along the way. <br><br>
-  My interests include Natural Language Processing (NLP) 📝, Multimodal Learning 🖼️🔤, Generative Models 🎨, Optimization Algorithms 📈, Large Language Models (LLMs) 🤖, and AI Agents 🛠️. <br><br> 
+<p align="center" style="text-align:center; font-size: 20px;">
+  🚀 I am passionate about exploring the world of Artificial Intelligence and sharing knowledge along the way. <br>
+  My interests include Natural Language Processing (NLP) 📝, Multimodal Learning 🖼️🔤, Generative Models 🎨, Optimization Algorithms 📈, Large Language Models (LLMs) 🤖, and AI Agents 🛠️. <br>
   I maintain several websites: <br>
   📚 <a href="https://yyzhang2000.github.io/AI-Daily-Paper/" target="_blank">AI Daily Paper</a> — sharing classic and cutting-edge AI research.<br>
   ✍️ <a href="https://yyzhang2000.github.io/Blog/" target="_blank">Blog</a> — sharing various concepts, experiments, and projects.
