@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there, I'm Yuyang 👋
+
+<p align="center" style="text-align:center;">
+  🚀 I am passionate about exploring the world of Artificial Intelligence and sharing knowledge along the way. <br><br>
+  My interests include Natural Language Processing (NLP) 📝, Multimodal Learning 🖼️🔤, Generative Models 🎨, Optimization Algorithms 📈, Large Language Models (LLMs) 🤖, and AI Agents 🛠️. <br><br> 
+  I maintain several websites: <br>
+  📚 <a href="https://yyzhang2000.github.io/AI-Daily-Paper/" target="_blank">AI Daily Paper</a> — sharing classic and cutting-edge AI research.<br>
+  ✍️ <a href="https://yyzhang2000.github.io/Blog/" target="_blank">Blog</a> — sharing various concepts, experiments, and projects.
+</p>
 
 <!--
 **Yyzhang2000/Yyzhang2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +22,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yyzhang2000/Yyzhang2000/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yyzhang2000/Yyzhang2000/output/github-contribution-grid-snake.svg">
